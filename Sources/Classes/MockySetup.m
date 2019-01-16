@@ -7,7 +7,7 @@
 //
 
 #import "MockySetup.h"
-#import <SwiftyMocky/SwiftyMocky-Swift.h>
+#import "SwiftyMocky-Swift.h"
 
 @implementation MockySetup
 
